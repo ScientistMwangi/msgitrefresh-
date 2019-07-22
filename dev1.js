@@ -1,3 +1,3 @@
 function dev1Function(a,b){
-    return a*b;
+    return a*b*b;
 }
